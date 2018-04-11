@@ -1,0 +1,6 @@
+{
+    "name": "Testcoin CBTC",
+    "symbol": "CBTC",
+    "algorithm": "equihash",
+    "txfee": 0.0001
+}

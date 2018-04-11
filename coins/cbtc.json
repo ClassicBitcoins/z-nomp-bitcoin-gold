@@ -1,0 +1,6 @@
+{
+    "name": "Classic Bitcoin",
+    "symbol": "CBTC",
+    "algorithm": "equihash",
+    "txfee": 0.0001
+}
